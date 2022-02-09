@@ -1,0 +1,66 @@
+.d1 {  
+        background-color: brown;   
+        color: white;
+        padding: 25px;
+        text-align: center;
+        width: 400px;
+        height: 25px;
+        border: 2px solid black;
+}
+
+.d1:hover {
+        background-color: hotpink; 
+}
+
+/*------------------------------------------------------*/
+
+.d2 {
+        background-color: brown;   
+        color: white;
+        padding: 25px;
+        text-align: center;
+        width: 400px;
+        height: 50px;
+        border: 2px solid black;
+} 
+
+.d2p1 {
+        display: none;
+        background-color: green;
+}
+
+.d2:hover .d2p1 {
+        display: block;
+}
+
+/*------------------------------------------------------*/
+
+.d3 {
+        background-color: brown;   
+        color: white;
+        padding: 25px;
+        text-align: center;
+        width: 400px;
+        height: 140px;
+        border: 2px solid black;
+}
+
+/*------------------------------------------------------*/
+
+a:link{
+        color: white;
+}
+
+a:visited{
+        color:white;
+}
+a:hover{
+        color: blue;
+}
+
+a:active{
+        color: aqua;
+}
+
+/*-----------------------------------------------------*/
+
